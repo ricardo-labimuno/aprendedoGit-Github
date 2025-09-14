@@ -1,1 +1,3 @@
-Meus primeiros passos com o Git
+Meus primeiros passos com o Git.
+
+Vamos alterar alguns passos que tal?
